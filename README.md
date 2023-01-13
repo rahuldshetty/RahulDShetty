@@ -2,7 +2,7 @@
 
 Personal Website: [https://rahuldshetty.github.io/](https://rahuldshetty.github.io/)
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahuldshetty&show_icons=true&theme=dark)
+[![Rahul's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahuldshetty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/rahuldshetty?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&stars.limit=4&config.timezone=Asia%2FCalcutta)
 
